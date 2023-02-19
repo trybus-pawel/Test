@@ -1,1 +1,7 @@
 !# Python3
+
+def sum(a: float, b: float)->float:
+  return a+b
+
+suma = sum(20.0,20)
+print(suma)
